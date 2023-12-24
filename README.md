@@ -16,6 +16,5 @@ Este proyecto es un generador de fractales basado en el triángulo de Sierpinski
 ## Personalización
 Puedes personalizar el número de iteraciones modificando la variable `max_iter` en el código.
 
-## Autor
-Este by: [Jakepys](https://github.com/JuanPerdomo00)
+by: [Jakepys](https://github.com/JuanPerdomo00)
 
